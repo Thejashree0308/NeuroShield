@@ -1,0 +1,18 @@
+/* frontend/green_theme.css */
+body {
+    background-color: #040303;
+}
+.sidebar .sidebar-content {
+    background-color: #d1f7c4;
+}
+.stButton>button {
+    background-color: #242c25;
+    color: white;
+    border: none;
+}
+.stButton>button:hover {
+    background-color: #34a44f;
+}
+.stTextInput>div>div>input {
+    background-color: #f5fff2;
+}
