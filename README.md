@@ -29,6 +29,3 @@ We wanted to build a tool that empowers **early detection, monitoring, and patie
 - **Scipy** for stride signal smoothing
 - *(Optional: Demographics dataset `demographics.xls` for patient metadata)*
 
----
-
-## 📂 Project Structure
