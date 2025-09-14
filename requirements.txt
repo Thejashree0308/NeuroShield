@@ -1,3 +1,4 @@
+streamlit
 opencv-python
 ultralytics
 tensorflow
