@@ -1,9 +1,7 @@
-# Build tools (top of the file)
 pip==25.2
 setuptools==68.0.0
 wheel==0.41.0
 
-# Core packages
 streamlit==1.29.0
 numpy==1.25.2
 pandas==2.1.1
@@ -12,11 +10,9 @@ scipy==1.11.0
 openpyxl==3.1.2
 pillow==10.0.0
 
-# ML / YOLO
 torch==2.1.0
 ultralytics==8.1.9
 opencv-python==4.8.1.78
 tqdm==4.66.5
 
-# Deployment
 gunicorn==21.2.0
