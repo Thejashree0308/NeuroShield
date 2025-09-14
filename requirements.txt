@@ -5,6 +5,5 @@ numpy
 pillow
 openpyxl==3.1.5
 opencv-python==4.8.1.78
-
-# Utilities
+gunicorn
 tqdm==4.66.5
