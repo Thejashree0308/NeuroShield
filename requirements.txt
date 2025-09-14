@@ -1,7 +1,6 @@
+setuptools>=65.0.0
+wheel
 pip==25.2
-setuptools==68.0.0
-wheel==0.41.0
-
 streamlit==1.29.0
 numpy==1.25.2
 pandas==2.1.1
@@ -16,3 +15,4 @@ opencv-python==4.8.1.78
 tqdm==4.66.5
 
 gunicorn==21.2.0
+
